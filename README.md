@@ -2,7 +2,7 @@
 
 # How To Run
 ```
-git clone
+git clone https://github.com/AirDropFamilyIDN/spell.git
 ```
 ```
 cd spell
