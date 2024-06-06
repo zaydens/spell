@@ -1,4 +1,4 @@
-# spell Bot Khusus Member VIP
+# Spell Bot Khusus Member VIP
 
 # How To Run
 ```
