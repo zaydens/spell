@@ -1,9 +1,8 @@
 # Spell Bot Khusus Member VIP
 
 # How To Run
-```
-git clone https://github.com/AirDropFamilyIDN/spell.git
-```
+[![AIRDROP FAMILY IDN](https://github.com/AirDropFamilyIDN/BOT-Ocean/blob/main/downlaod.png)](https://github.com/AirDropFamilyIDN/BOT-Ocean/blob/main/downlaod.png)
+Buka File nya di laptop kalian
 ```
 cd spell
 ```
