@@ -6,14 +6,11 @@
 # Buka File nya di laptop kalian
 ```
 cd spell
-```
-```
 npm install
 npm install public-ip
+node start.js
 ```
 # Ganti account_lists.txt 
 Query Kalian kayak di contoh
-```
-node start.js
-```
+
 # Gunakan License Kalian Masing - Masing !!!!
