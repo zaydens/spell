@@ -1,9 +1,7 @@
-# Spell Bot Khusus Member VIP
+# Spell Bot 
 
 # How To Run
-[![AIRDROP FAMILY IDN](https://github.com/AirDropFamilyIDN/BOT-Ocean/blob/main/downlaod.png)](https://github.com/AirDropFamilyIDN/BOT-Ocean/blob/main/downlaod.png)
 
-# Buka File nya di laptop kalian
 ```
 cd spell
 npm install
